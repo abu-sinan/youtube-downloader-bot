@@ -1,3 +1,4 @@
+![YouTube Downloader Bot](https://github.com/abu-sinan/youtube-downloader-bot/blob/main/assets/thumbnail.png)
 # 📺 YouTube Downloader Bot
 
 A powerful, modern, and customizable YouTube downloader built with `yt-dlp`. Supports single videos, playlists, channels, audio-only mode, smart retries, logging, and multithreaded downloads — all with command-line control.
@@ -15,15 +16,15 @@ cd youtube-downloader-bot
 
 ## ⚙️ Features
 
-✅ Download videos, playlists, or entire channels
-✅ MP3 audio-only mode (`--audio`)
-✅ Multithreaded downloads (`--threads 4`)
-✅ Skips already downloaded videos
-✅ Smart retry with backoff
-✅ Pre-download URL validation
-✅ Auto-organizes downloads into folders
-✅ Logs success and failures
-✅ Auto-updates `yt-dlp` before running
+✅ Download videos, playlists, or entire channels  
+✅ MP3 audio-only mode (`--audio`)  
+✅ Multithreaded downloads (`--threads 4`)  
+✅ Skips already downloaded videos  
+✅ Smart retry with backoff  
+✅ Pre-download URL validation  
+✅ Auto-organizes downloads into folders  
+✅ Logs success and failures  
+✅ Auto-updates `yt-dlp` before running  
 ✅ Supports input from file or manual entry
 
 ---
@@ -114,4 +115,4 @@ youtube-downloader-bot/
 
 ## 📜 License
 
-MIT License — use it freely and responsibly.
+MIT [License](https://github.com/abu-sinan/youtube-downloader-bot/blob/main/LICENSE) — use it freely and responsibly.
