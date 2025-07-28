@@ -105,7 +105,7 @@ youtube-downloader-bot/
 **Abu Sinan**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/abu-sinan)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/AbuSinan_)
+[![X](https://img.shields.io/badge/X-100000?style=flat&logo=twitter&logoColor=white)](https://x.com/AbuSinan_)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1155521589065027735)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abusinan)
 
